@@ -1,0 +1,19 @@
+body{
+    background: #6666;
+    font-family: arial;
+    font-weight: 2em;
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+
+li{
+    border-bottom: 1px dotted #ccc;
+}
+.container{
+    width: 600px;
+    border: solid 1px #ccc;
+    margin: auto;
+    background: #f4f4f4;  
+}
